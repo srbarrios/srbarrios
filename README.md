@@ -9,12 +9,12 @@ I'm skilled in Quality Process and Automation, with expertise as a Backend Devel
 
 
 ### Tech stack at work
-**Source Code**: GitLab, GitHub<br>
-**Continuous Integration**: GitHub Actions, Jenkins Pipelines<br>
-**Infrastructure as Code**: Terraform, Salt<br>
-**Cloud**: AWS, GCP, Azure<br>
-**Test Framework**: Ruby, Cucumber, Capybara, Chrome Driver<br>
-**Management**: GitHub, Bugzilla<br>
+- **Source Code**: GitLab, GitHub
+- **Continuous Integration**: GitHub Actions, Jenkins Pipelines
+- **Infrastructure as Code**: Terraform, Salt
+- **Cloud**: AWS, GCP, Azure
+- **Test Framework**: Ruby, Cucumber, Capybara, Chrome Driver
+- **Management**: GitHub, Bugzilla
 
 ### Currently interested in
 - Kubernetes
