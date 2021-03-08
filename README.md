@@ -4,7 +4,7 @@
 [![Oubiti](https://img.shields.io/badge/oubiti.com-%230077B5.svg?&style=for-the-badge)](https://oubiti.com)
 
 
-I'm a **QA Automation Engineer** at [SUSE](https://suse.com), currently working at SUSE Manager project.
+I'm a **QA Automation Engineer** at [SUSE](https://suse.com), currently working at [SUSE Manager](https://www.suse.com/products/suse-manager/) and [Uyuni](https://github.com/uyuni-project/uyuni/) project.<br>
 I'm skilled in Quality Process and Automation, with expertise as a Backend Developer. I'm a big fan of DevOps culture and I promote it with an internal monthly meetup.
 
 
