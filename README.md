@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Oscar Barrios! 👋
 
-<!--
-**srbarrios/srbarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarbarrios)
+[![Oubiti](https://img.shields.io/badge/oubiti.com-%230077B5.svg?&style=for-the-badge)](https://oubiti.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Automation Engineer** at [SUSE](https://suse.com), currently working at SUSE Manager project.
+I'm skilled in Quality Process and Automation, with expertise as a Backend Developer. I'm a big fan of DevOps culture and I promote it with an internal monthly meetup.
+
+
+### Tech stack at work
+- Source Code: GitLab, GitHub
+- Continuous Integration: GitHub Actions, Jenkins Pipelines
+- Infrastructure as Code: Terraform, Salt
+- Cloud: AWS, GCP, Azure
+- Test Framework: Ruby, Cucumber, Capybara, Chrome Driver
+- Management: GitHub, Bugzilla
+
+### Currently Getting Familiar
+- Kubernetes
+
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=srbarrios&theme=dark&show_icons=true&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbarrios&theme=dark&show_icons=true&count_private=true" />
