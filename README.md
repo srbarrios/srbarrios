@@ -22,5 +22,4 @@ I'm skilled in Quality Process and Automation, with expertise as a Backend Devel
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=srbarrios&theme=dark&show_icons=true&count_private=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srbarrios&theme=dark&langs_count=8&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=srbarrios&theme=dark&show_icons=true&count_private=true" />
