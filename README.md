@@ -19,7 +19,3 @@ I'm skilled in Quality Process and Automation, with expertise as a Backend Devel
 ### Currently interested in
 - Kubernetes
 - AI Tests
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=srbarrios&theme=dark&show_icons=true&count_private=true" />
