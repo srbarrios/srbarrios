@@ -4,7 +4,7 @@
 [![Oubiti](https://img.shields.io/badge/oubiti.com-%230077B5.svg?&style=for-the-badge)](https://oubiti.com)
 
 
-I'm a **QE Architect** at [SUSE](https://suse.com), currently working at [SUSE Manager](https://www.suse.com/products/suse-manager/) and [Uyuni](https://github.com/uyuni-project/uyuni/) projects.<br>
+I'm a **QE Architect** at [SUSE](https://suse.com), currently working at [SUSE Multi-Linux Manager](https://www.suse.com/products/multi-linux-manager/) and [Uyuni](https://github.com/uyuni-project/uyuni/) projects.<br>
 
 I have deep passion for test automation, CI/CD, and DevOps. With over 15 years of experience, I have designed and built high-performance test frameworks, streamlined automation strategies, and improved software quality across global organizations like SUSE, King (Activision Blizzard), Telefónica Digital, Bull (Atos) and INRIA.
 
