@@ -5,7 +5,11 @@
 
 
 I'm a **QE Architect** at [SUSE](https://suse.com), currently working at [SUSE Manager](https://www.suse.com/products/suse-manager/) and [Uyuni](https://github.com/uyuni-project/uyuni/) projects.<br>
-I'm skilled in Quality Process and Automation, with expertise as a Backend Developer. I'm a big fan of DevOps culture and I promote it with an internal monthly meetup.
+
+I have deep passion for test automation, CI/CD, and DevOps. With over 15 years of experience, I have designed and built high-performance test frameworks, streamlined automation strategies, and improved software quality across global organizations like SUSE, King (Activision Blizzard), Telefónica Digital, Bull (Atos) and INRIA.
+
+A strong advocate for open-source and automation best practices, I contributed to various projects, and co-hosts the SUSE DevOps Meetup. I enjoy collaborating with teams to push the boundaries of software quality, test automation, and infrastructure as code.
+I'm a continuous learner who enjoys exploring emerging technologies, mentoring teams, and shaping the future of test engineering.
 
 
 ### Tech stack at work
