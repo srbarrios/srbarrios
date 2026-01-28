@@ -1,14 +1,14 @@
 ### Hi there, I'm Oscar Barrios! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarbarrios)
-[![Oubiti](https://img.shields.io/badge/oubiti.com-%230077B5.svg?&style=for-the-badge)](https://oubiti.com)
+[![Oubiti](https://img.shields.io/badge/oscarbarrios.tech-%230077B5.svg?&style=for-the-badge)](https://oscarbarrios.tech)
 
 
 I'm a **QE Architect** at [SUSE](https://suse.com), currently working at [SUSE Multi-Linux Manager](https://www.suse.com/products/multi-linux-manager/) and [Uyuni](https://github.com/uyuni-project/uyuni/) projects.<br>
 
-I have deep passion for test automation, CI/CD, and DevOps. With over 18 years of experience, I have designed and built high-performance test frameworks, streamlined automation strategies, and improved software quality across global organizations like SUSE, King (Activision Blizzard), Telefónica Digital, Bull (Atos) and INRIA.
+I have deep passion for test automation, CI/CD, and DevOps. With over 19 years of experience, I have designed and built high-performance test frameworks, streamlined automation strategies, and improved software quality across global organizations like SUSE, King (Activision Blizzard), Telefónica Digital, Bull (Atos) and INRIA.
 
-A strong advocate for open-source and automation best practices, I contributed to various projects, and co-hosts the SUSE DevOps Meetup. I enjoy collaborating with teams to push the boundaries of software quality, test automation, and infrastructure as code.
+A strong advocate for open-source and automation best practices, I contributed to various projects, and co-hosted the SUSE DevOps Meetup (2020-2024). I enjoy collaborating with teams to push the boundaries of software quality, test automation, and infrastructure as code.
 I'm a continuous learner who enjoys exploring emerging technologies, mentoring teams, and shaping the future of test engineering.
 
 
@@ -22,4 +22,5 @@ I'm a continuous learner who enjoys exploring emerging technologies, mentoring t
 
 ### Currently interested in
 - Kubernetes
-- AI Tests
+- Synthetic monitoring
+- AI Tooling for Testing
