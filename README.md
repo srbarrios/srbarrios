@@ -24,6 +24,3 @@ I'm a continuous learner who enjoys exploring emerging technologies, mentoring t
 - Kubernetes
 - Synthetic monitoring
 - AI Tooling for Testing
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=srbarrios\&theme=github_dark_dimmed\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
