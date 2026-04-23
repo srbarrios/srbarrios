@@ -15,9 +15,10 @@ I'm a continuous learner who enjoys exploring emerging technologies, mentoring t
 ### Tech stack at work
 - **Source Code**: GitLab, GitHub
 - **Continuous Integration**: GitHub Actions, Jenkins Pipelines
-- **Infrastructure as Code**: Terraform, Salt
+- **Infrastructure as Code**: Terraform/OpenTofu, Salt
 - **Cloud**: AWS, GCP, Azure
 - **Test Framework**: Ruby, Cucumber, Capybara, Chrome Driver
+- **AI**: FastMCP, CrewAI
 - **Management**: GitHub, Bugzilla
 
 ### Currently interested in
