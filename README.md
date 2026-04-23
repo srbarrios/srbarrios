@@ -22,8 +22,8 @@ I'm a continuous learner who enjoys exploring emerging technologies, mentoring t
 
 ### Currently interested in
 - Kubernetes
-- Synthetic monitoring
-- AI Tooling for Testing
+- Observability
+- Agentic AI for Testing
 
 <details><summary>GitHub Stats</summary>
 
