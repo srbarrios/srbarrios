@@ -18,8 +18,9 @@ I'm a continuous learner who enjoys exploring emerging technologies, mentoring t
 - **Infrastructure as Code**: Terraform/OpenTofu, Salt
 - **Cloud**: AWS, GCP, Azure
 - **Test Framework**: Ruby, Cucumber, Capybara, Chrome Driver
-- **AI**: FastMCP, CrewAI
+- **AI**: FastMCP, LangChain, LangGraph, CrewAI
 - **Management**: GitHub, Bugzilla
+- **AI-Assistant**: Claude Code, GitHub Copilot
 
 ### Currently interested in
 - Kubernetes
