@@ -26,5 +26,3 @@ I'm a continuous learner who enjoys exploring emerging technologies, mentoring t
 - Kubernetes
 - Observability
 - Agentic AI for Testing
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srbarrios&theme=dark" alt="srbarrios" />
